@@ -8,7 +8,7 @@
 You can view our privacy policy [here](privacy-policy).
 
 ## Get In Touch
-Please reach out to [support](mailto:support@blta.co) to get in touch with us.
+Please [email us](mailto:feedback@blta.co?subject=Chameo App) to get in touch.
 
 <a href="https://apps.apple.com/us/app/parrot-recorder-and-looper/id1527210110" rel="Download on the App Store">
     <img width=150 src="assets/images/app-store-button.svg">
