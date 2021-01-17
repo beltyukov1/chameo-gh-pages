@@ -1,4 +1,7 @@
 # Privacy Policy
+
+<img width=100 src="assets/images/app-logo.png">
+
 This policy applies to all information collected or submitted via the Chameo app on iOS.
 
 ## Information We Collect
