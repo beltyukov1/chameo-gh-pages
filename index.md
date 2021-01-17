@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-| <img width=150 src="assets/images/chameo-app-logo.png"> | Chameo is an iOS app to log levels of discomfort and observe trends over time. |
+| <img width=150 src="assets/images/app-logo.png"> | Chameo is an iOS app to log levels of discomfort and observe trends over time. |
 
 ## Privacy
 You can view our privacy policy [here](privacy-policy).
